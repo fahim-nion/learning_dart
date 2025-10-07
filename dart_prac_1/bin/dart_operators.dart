@@ -17,6 +17,14 @@ void main(){
   *=;
 
   //relational operatrs
-  >,<,>=,<=,==,!
+  >,<,>=,<=,==,!;
+
+  //typetest operator
+  is, as;
+
+  //logical operator
+  && //logical and
+  || //logical or
+  ! //logical not
 
 }
