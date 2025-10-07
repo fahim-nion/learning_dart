@@ -41,4 +41,17 @@ void main(){
   var city = ["dhaka", "mymensingh","khulna","sylhet",12,12.32,true];
   // print(city);
   // print(city[0]);
+
+
+  //maps as you can say dictionary in python 
+  //key value pair , calling the key outputs the value stored in that key
+
+  var secA = {
+    'name':'Joseph',
+    'address' : 'dhaka',
+    'roll': 12
+  };
+
+  print(secA['name']);
+  print(secA);
 }
