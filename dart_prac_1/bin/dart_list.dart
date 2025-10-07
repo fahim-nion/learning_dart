@@ -16,20 +16,34 @@ void main(){
   // print(city.isEmpty);
   // print(city.isNotEmpty);
   city.add("cox-bazar");
-  print(city);
+  // print(city);
 
 
   //add(), addAll(), insert(), insertAll()
   city.add("mymensingh");
-  print(city);
+  // print(city);
 
   city.addAll(["comilla","foridpur","kushtia"]);
-  print(city);
+  // print(city);
 
   // city.insert(index, element)
   city.insert(1, "Manikganj");
-  print(city);
+  // print(city);
 
   city.insertAll(0, ["Muktagachha","sylhet"]);
+  // print(city);
+
+
+  //UPDATING LIST
+
+  print(city);
+  city[1] = "Manikganj";
+  print(city);
+
+  //remove(), removeAt(), removeLast(), removeRange()
+  // city.remove("Manikganj");
+  print(city); //first manikganj will be removed
+
+  city.removeAt(3);
   print(city);
 }
