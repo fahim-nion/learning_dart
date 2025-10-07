@@ -1,5 +1,5 @@
-void main(){
-  //arithmetic operators
+
+/*  //arithmetic operators
   /*   +  -   /   *    % */
 
   //unary operators
@@ -26,5 +26,14 @@ void main(){
   && //logical and
   || //logical or
   ! //logical not
+  
+   */
+
+
+void main(){
+  var a = 2;
+  var b = 5;
+  var sum = a+b;
+  print("The resultant sum would be : ${sum}");
 
 }
