@@ -38,5 +38,7 @@ void main(){
 
 
   //list data types
-  
+  var city = ["dhaka", "mymensingh","khulna","sylhet",12,12.32,true];
+  // print(city);
+  // print(city[0]);
 }
