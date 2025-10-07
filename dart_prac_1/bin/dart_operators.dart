@@ -15,6 +15,8 @@ void main(){
   +=;
   -=;
   *=;
-  
+
+  //relational operatrs
+  >,<,>=,<=,==,!
 
 }
