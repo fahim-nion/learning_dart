@@ -17,7 +17,7 @@ void main(){
 
   print(person['country']);
 
-  //----------------------Advanced Topic------------------------------------
+  //----------------------Advanced Topic-----------------------------------
 
 
   /* now if i want to create the map without using the curly braces
