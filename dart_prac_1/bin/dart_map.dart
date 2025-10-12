@@ -44,5 +44,4 @@ void main(){
 
   student.addAll({'salary':'24444 USD','nomination': 'rising'});
   print(student);
-
 }
