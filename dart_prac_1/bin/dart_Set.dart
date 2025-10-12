@@ -22,6 +22,7 @@
 // }
 
 
+
 void main(){
   var names = <String>{"James", "rodrygo", "napoleon", "machado"}; //<String, bool ,int these are called generix>
   names.add("bivuti");
@@ -31,4 +32,22 @@ void main(){
   names.removeWhere((e) => e.startsWith('b'));
   
   print(names);
+
+
+  //access the set element
+  //how you can access the set element?
+  print(names.elementAt(3));
+
+  //how to remove set element?
+
+  names.clear();  //clears all the element from here
+  print(names);
+
+
+  //some usefull properties of set
+  var namesAgain = <String>{"pames", "rodryno", "baponeon", "hachado"}; //<String, bool ,int these are called generix>
+  print(namesAgain.isEmpty);
+  print(namesAgain.contains("baponeon"));
+
+
 }
