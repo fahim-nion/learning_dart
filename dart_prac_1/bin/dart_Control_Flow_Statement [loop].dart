@@ -30,7 +30,7 @@ void main() {
     ];
 
     //when we keep a number of maps [object/dictionary] in a list/array we call it a json
-    
+
 
   for (var elem in people) {
     // print("${elem['name']} ${elem['age']}");
@@ -39,6 +39,7 @@ void main() {
   var a_set = {'bob','maehem','bishop'};
   for (var e in a_set) {
     print(e);
+    
   }
 }
 
