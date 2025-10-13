@@ -19,7 +19,7 @@ void main() {
   //it always applies on a list
   //for in loop er limit dite hoy na
   for (var elem in list1) {
-    // print(elem);
+    print(elem);
   }
 
   /* how we can apply for in loop a map{json array}*/
