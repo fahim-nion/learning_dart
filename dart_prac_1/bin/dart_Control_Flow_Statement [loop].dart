@@ -39,7 +39,6 @@ void main() {
   var a_set = {'bob','maehem','bishop'};
   for (var e in a_set) {
     print(e);
-    
   }
 }
 
