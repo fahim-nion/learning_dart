@@ -33,7 +33,7 @@ void main() {
 
 
   for (var elem in people) {
-    // print("${elem['name']} ${elem['age']}");
+    print("${elem['name']} ${elem['age']}");
   }
 
   var a_set = {'bob','maehem','bishop'};
