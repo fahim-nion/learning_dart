@@ -9,7 +9,7 @@ do-while
 
 void main() {
   for (int i = 1; i <= 10; i++) {
-    // print("Saying yeahh for $i time");
+    print("Saying yeahh for $i time");
   }
 
 
