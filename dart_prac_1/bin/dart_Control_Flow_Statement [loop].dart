@@ -16,8 +16,10 @@ void main() {
   //for in loop 
 
   var list1 = [10,20,30,45,84,89,90];
+  
   //it always applies on a list
   //for in loop er limit dite hoy na
+
   for (var elem in list1) {
     print(elem);
   }
