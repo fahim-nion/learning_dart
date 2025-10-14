@@ -14,6 +14,19 @@ common dart exceptions
 */
 
 void main(){
-  int x = 12 ~/ 5;
-  print(x);
+
+try {
+  int x = 12 ~/0;
+  // print(x);
+} catch (e) {
+  // print(e);
+}
+//if the error is known then
+try {
+  int y = 12~/0;
+  print(y);
+} on IntegerDivisionByZeroException {
+  print("can not divide by 0");
+}
+
 }
