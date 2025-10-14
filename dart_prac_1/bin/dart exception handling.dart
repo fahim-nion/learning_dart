@@ -62,7 +62,9 @@ try {
   int result = int.parse("45s");
   print(result);
 } catch (e,s) {
-  print(s);                     // s is for stack trace
+  print(e);                     // s is for stack trace
+}finally{
+  print("finally block will always get executed");
 }
 
 }
