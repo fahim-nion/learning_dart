@@ -39,8 +39,8 @@ This repo documents my progress as I learn the **Dart programming language** —
 | 2  | Variables & Data Types      | ✅ Done |
 | 3  | Control Flow (if/else, loops)| ✅ Done |
 | 4  | Functions                   | ✅ Done |
-| 5  | Collections (List, Map)     | 🚧 In Progress |
-| 6  | OOP (Classes & Objects)     | 🔜 Upcoming |
+| 5  | Collections (List, Map)     | ✅ Done |
+| 6  | OOP (Classes & Objects)     | ✅ Done |
 | 7  | Error Handling              | 🔜 Upcoming |
 | 8  | Async & Await               | 🔜 Upcoming |
 
@@ -49,6 +49,7 @@ This repo documents my progress as I learn the **Dart programming language** —
 ## 📂 Learning From a free resource:
 
 - [১ ভিডিওতে ডার্ট শিখুন ! ফ্লাটারের প্রস্তুতি ! Dart Tutorial Bangla | Flutter Tutorial Bangla](https://youtu.be/_8Q5cwfvi64?si=ubxJ1fSLd4fp2Zh_)
+
 
 
 
