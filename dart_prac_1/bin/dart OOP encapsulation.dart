@@ -22,4 +22,5 @@ class Father{
 
 //private variable hoye geche "_property" shamne "_" dilei hoye jay private
 // to access them we need to use setter and getter method;
+//SAME FILE ER MODDHE THAKLE PRIVATE KORAR POREO ACCESS KORA JABE SO WE WILL BE NEEDING A SEPARATE FILE FOR THE PRIVATE CLASS;
 
