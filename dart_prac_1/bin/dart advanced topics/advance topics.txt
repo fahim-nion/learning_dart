@@ -1,2 +1,14 @@
 - lambda/anonymous function
-- 
+- higher order function / callback function
+- recursive function
+- dart I/O library
+- file read , write
+- file delete , rename, or checking existance
+- creating directory
+- creating files in between directory
+- File path
+- Asynchronous Error Handling
+- Dart Mixin
+
+**Advanced OOP**
+- Dart Factory Constructor
