@@ -18,4 +18,12 @@
 - Builder Pattern
 - Factory Method Pattern
 - Object Cloning
-- 
+- Composition Vs Inheritance
+- SOLID Principles
+- Mixin Vs Obstract Class
+- Type Reflection
+- Data Class and Immutable Class
+- Open/Closed Principles
+- Liscov Substution Principle
+- Interface Seggregation Principle
+- Dependency Inversion Principle
