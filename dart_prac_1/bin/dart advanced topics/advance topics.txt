@@ -12,3 +12,4 @@
 
 **Advanced OOP**
 - Dart Factory Constructor
+- Dart Singleton Pattern
