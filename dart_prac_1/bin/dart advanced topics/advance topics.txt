@@ -10,7 +10,7 @@
 - Asynchronous Error Handling
 - Dart Mixin
 
-**Advanced OOP**
+**Advanced OOP and Design Pattern**
 - Dart Factory Constructor
 - Dart Singleton Pattern
 - Dart Dependency Injection
