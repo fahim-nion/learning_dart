@@ -42,4 +42,9 @@
 - How to call an API using HTTP Package
 - GET , POST Req
 - PUT, PATCH, DELETE Req
-- 
+- Maintaining Header and Authentication
+- JSON Data Parsing
+- Using Future and Await for Asynchronous API call
+- Handling Live API Data Using Stream
+- API Response Caching and Optimization
+ 
