@@ -1,5 +1,7 @@
 void main(){
+  
   final gender = Gender.Unknown;
+
   switch (gender) {
     case Gender.Male:
       print("Gender is Male");
