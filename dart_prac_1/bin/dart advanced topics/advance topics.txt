@@ -13,3 +13,9 @@
 **Advanced OOP**
 - Dart Factory Constructor
 - Dart Singleton Pattern
+- Dart Dependency Injection
+- Prototype Pattern
+- Builder Pattern
+- Factory Method Pattern
+- Object Cloning
+- 
