@@ -11,6 +11,8 @@ void main(){
 
 }
 
+//normal function
+
 addMyNum(int a, int b){
   
   var sum = a+b;
