@@ -7,7 +7,14 @@
 void main(){
 
   print("Hello Darkness My Old Friend!!");
-  addMyNum(12, 9);
+  // addMyNum(12, 9);
+
+  var myfunc = (int a, int b){
+    var sum = a + b;
+    print(sum);
+  };
+
+  myfunc(12,12);
 
 }
 
