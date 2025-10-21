@@ -1,4 +1,4 @@
-- lambda/anonymous function
+- lambda/anonymous function ✅
 - higher order function / callback function
 - recursive function
 - dart I/O library
