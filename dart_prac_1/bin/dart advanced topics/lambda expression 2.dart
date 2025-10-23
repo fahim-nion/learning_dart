@@ -12,6 +12,7 @@ void main(){
 
   var returningFunc = taskToPerform();
   print(returningFunc(9));
+
 }
 
 
@@ -24,6 +25,8 @@ void babaFunction(String msg, Function parameterFunc){   // msg ar function ta r
 //how can i return a function
 
 Function taskToPerform(){
+
   Function multiplyByFour = (int a)=> a*4;
+  
   return multiplyByFour;
 }
