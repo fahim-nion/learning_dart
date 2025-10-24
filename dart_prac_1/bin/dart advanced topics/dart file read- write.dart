@@ -30,5 +30,11 @@ void main() async{
     print("📄 File contents:");
     print(contents);
 
+    if (await f.exists()) {
+      print("File exists!");
+    } else {
+      print("File not found!");
+    }
+
 
 }
