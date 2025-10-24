@@ -43,13 +43,15 @@ This repo documents my progress as I learn the **Dart programming language** —
 | 6  | OOP (Classes & Objects)     | ✅ Done |
 | 7  | Error Handling              | ✅ Done |
 | 8  | Async & Await               | ✅ Done |
+| 8  | Dart Advance Topics         | Loading.. |
 
 ---
 
 ## 📂 Learning From a free resource:
 
 - [১ ভিডিওতে ডার্ট শিখুন ! ফ্লাটারের প্রস্তুতি ! Dart Tutorial Bangla | Flutter Tutorial Bangla](https://youtu.be/_8Q5cwfvi64?si=ubxJ1fSLd4fp2Zh_)
-- [Dart Bangla Tutorial](https://youtu.be/_8xOqMhUyjk?si=fWC2JLWvi4yGojN-)
+- [Dart Bangla Tutorial](https://youtu.be/_8xOqMhUyjk?si=_U0dE6fj2FsiUBG0) [by Afran Sarkar]
+- [Dart Bangla Tutorials](https://youtu.be/lB31HLUwul0?si=q81Zs3QFDwVaQ8Aa) [by Coding With Mamun]
 
 
 
