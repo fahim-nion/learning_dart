@@ -25,7 +25,7 @@ Get system info	                                Platform.operatingSystem
 import 'dart:io';
 
 void main(){
-  print("Enter Your Name?");
-  String? name = stdin.readLineSync();
-  print("Hello ${name} welcome!!!");
+  // print("Enter Your Name?");
+  // String? name = stdin.readLineSync();
+  // print("Hello ${name} welcome!!!");
 }
