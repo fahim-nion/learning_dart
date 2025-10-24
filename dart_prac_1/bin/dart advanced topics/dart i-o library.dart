@@ -25,7 +25,13 @@ Get system info	                                Platform.operatingSystem
 import 'dart:io';
 
 void main(){
-  // print("Enter Your Name?");
-  // String? name = stdin.readLineSync();
-  // print("Hello ${name} welcome!!!");
+  print("Enter Your Name?");
+  String? name = stdin.readLineSync();
+  print("Hello ${name} welcome!!!");
+
+  // taking integer value as input
+
+  print("What is your age?");
+  int? age = int.tryParse(stdin.readLineSync()!);  //! dewa chara error will show up // if user does not inputs any age then it will show "So you are null years old"
+  print("So you are ${age} years old");
 }
