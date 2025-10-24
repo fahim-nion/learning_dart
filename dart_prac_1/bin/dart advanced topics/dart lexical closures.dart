@@ -4,5 +4,34 @@
 
 void main(){
   String msg = "dart is good";
-  
+  // print(msg);
+  Function myFunc = (){
+    msg = "Dart is Awesome.";
+    print(msg);
+  };
+
+  // myFunc();
+
+
+
+
+
+
+
+  //by 2nd defination
+
+  Function talk(){
+    String mesg = "HI";
+    print(mesg);
+    Function say = (){
+      mesg = "Hello Bro";
+      print("I am updated from inside: ${mesg}");
+    };
+    return say;
+  };
+
+  /*    print(talk());//will return null  */
+  Function speak = talk();
+  speak();
+
 }
