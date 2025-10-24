@@ -49,7 +49,7 @@ This repo documents my progress as I learn the **Dart programming language** —
 
 ## 📂 Learning From a free resource:
 
-- [১ ভিডিওতে ডার্ট শিখুন ! ফ্লাটারের প্রস্তুতি ! Dart Tutorial Bangla | Flutter Tutorial Bangla](https://youtu.be/_8Q5cwfvi64?si=ubxJ1fSLd4fp2Zh_)
+- [১ ভিডিওতে ডার্ট শিখুন ! ফ্লাটারের প্রস্তুতি ! Dart Tutorial Bangla | Flutter Tutorial Bangla](https://youtu.be/_8Q5cwfvi64?si=ubxJ1fSLd4fp2Zh_) [by Rabbil Hasan]
 - [Dart Bangla Tutorial](https://youtu.be/_8xOqMhUyjk?si=_U0dE6fj2FsiUBG0) [by Afran Sarkar]
 - [Dart Bangla Tutorials](https://youtu.be/lB31HLUwul0?si=q81Zs3QFDwVaQ8Aa) [by Coding With Mamun]
 
