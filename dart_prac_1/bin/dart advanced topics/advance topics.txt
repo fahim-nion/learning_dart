@@ -4,9 +4,9 @@
 - dart I/O library ✅
 - file read , write, checking existance ✅
 - file delete , rename. ✅
-- creating directory
-- creating files in between directory
-- File path
+- creating directory ✅
+- creating files in between directory ✅
+- File path ✅
 - Asynchronous Error Handling
 - Dart Mixin
 
