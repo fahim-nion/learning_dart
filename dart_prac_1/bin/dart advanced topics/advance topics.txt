@@ -8,7 +8,7 @@
 - creating files in between directory ✅
 - File path ✅
 - Asynchronous Error Handling ✅
-- Dart Mixin
+- Dart Mixin ✅
 
 **Advanced OOP and Design Pattern**
 - Dart Factory Constructor
