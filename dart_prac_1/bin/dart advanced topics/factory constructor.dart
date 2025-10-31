@@ -6,17 +6,3 @@
 //similar to static method 
 //must return instance
 
-class Abc(){          //default constructor
-  Abc(){}
-
-  Abc.demo(){}        //name constructor
-
-  factory Abc.test(){
-    return Abc();
-  }
-}
-
-
-void main(){
-  Abc obj = Abc.test();
-}
