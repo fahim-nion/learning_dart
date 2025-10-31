@@ -4,11 +4,12 @@
 
 // factory constructor : using factory as a keyword
 //similar to static method 
+//must return instance
 
-class Abc(){
+class Abc(){          //default constructor
   Abc(){}
 
-  Abc.demo(){}
+  Abc.demo(){}        //name constructor
 
   factory Abc.test(){
     return Abc();
