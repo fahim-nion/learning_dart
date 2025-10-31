@@ -43,7 +43,7 @@ This repo documents my progress as I learn the **Dart programming language** —
 | 6  | OOP (Classes & Objects)     | ✅ Done |
 | 7  | Error Handling              | ✅ Done |
 | 8  | Async & Await               | ✅ Done |
-| 8  | Dart Advance Topics         | Loading.. |
+| 8  | Dart Advance Topics         | ✅ Done |
 
 ---
 
