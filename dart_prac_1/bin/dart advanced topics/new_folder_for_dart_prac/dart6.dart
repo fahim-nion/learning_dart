@@ -1,17 +1,23 @@
 void main(){
-  print(printDay(3));
+  print(printDay(33));
 }
 
 
 String printDay(int n){
+  String day = "";
   switch (n) {
     case(1):
-      return "monday";
+      day = "monday";
+      break;
     case(2):
-      return "Tuesday";
+      day = "Tuesday";
+      break;
     case(3):
-      return "wednesday";
+      day = "wednesday";
+      break;
     default:
-      return "Invalid input";
+      day = "Invalid input";
+      break;
   }
+  return day;
 }
